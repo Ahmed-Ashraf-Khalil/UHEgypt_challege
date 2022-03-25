@@ -1,5 +1,6 @@
 # UHEgypt_challege
 my submission in the first umoja hack competition in egypt
+https://zindi.africa/competitions/umojahack-egypt/leaderboard *#6th place*
 ## Running Distance Accuracy Challenge :
 
 ![Annotation 2021-06-27 060124](https://user-images.githubusercontent.com/59618586/123532404-27f75780-d70d-11eb-8fd6-3d6148549983.png)
